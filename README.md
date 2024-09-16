@@ -1,1 +1,1 @@
-# gestao_olimpiadas
+# Gestão Olimpíadas

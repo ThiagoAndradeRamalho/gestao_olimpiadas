@@ -37,37 +37,37 @@ O Sistema de Gestão das Olimpíadas (SGO) é uma solução projetada para coord
 
 ## Histórias de Usuário
 
-### 1. Realizar Login
+### 1. Realizar Login - US01
 - **Como** um usuário (atleta ou administrador),
 - **Eu quero** realizar login no sistema,
 - **Para que eu** possa acessar funcionalidades específicas do meu perfil e contribuir para a organização e participação nos Jogos Olímpicos.
 
-### 2. Verificar Local Disponível
+### 2. Verificar Local Disponível - US02
 - **Como** um administrador,
 - **Eu quero** verificar a disponibilidade de locais para as competições,
 - **Para que eu** possa planejar adequadamente as datas e evitar conflitos de agenda.
 
-### 3. Alocar Local
+### 3. Alocar Local - US03
 - **Como** um administrador,
 - **Eu quero** alocar um local para uma competição,
 - **Para que** as competições ocorram de forma organizada e em locais adequados.
 
-### 4. Cadastrar Competição
+### 4. Cadastrar Competição - US04
 - **Como** um administrador,
 - **Eu quero** cadastrar novas competições no sistema,
 - **Para que** os atletas possam se inscrever e as competições sejam realizadas conforme planejado.
 
-### 5. Registrar Resultados
+### 5. Registrar Resultados - US05
 - **Como** um administrador,
 - **Eu quero** registrar os resultados das competições,
 - **Para que** possamos manter um histórico preciso dos desempenhos e determinar os vencedores.
 
-### 6. Gerar Relatório de Medalhas
+### 6. Gerar Relatório de Medalhas - US06
 - **Como** um administrador,
 - **Eu quero** gerar relatórios de medalhas,
 - **Para que** possamos visualizar e publicar o desempenho dos países participantes em termos de medalhas conquistadas.
 
-### 7. Inscrever-se na Competição
+### 7. Inscrever-se na Competição - US07
 - **Como** um atleta,
 - **Eu quero** me inscrever em competições,
 - **Para que** eu possa participar dos Jogos e representar meu país.

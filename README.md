@@ -32,7 +32,7 @@ O Sistema de Gestão das Olimpíadas (SGO) é uma solução projetada para coord
 <img width="1000px" height="800px" src="https://github.com/ThiagoAndradeRamalho/gestao_olimpiadas/blob/main/images/Diagrama-de-Classes.png"/>
 <img width="1000px" height="800px" src="https://github.com/ThiagoAndradeRamalho/gestao_olimpiadas/blob/main/images/diagram-de-caso-de-uso.png"/>
 <img width="1000px" height="800px" src="https://github.com/ThiagoAndradeRamalho/gestao_olimpiadas/blob/main/images/Diagrama-de-Pacotes.png"/>
-<img width="1000px" height="800px" src="https://github.com/ThiagoAndradeRamalho/gestao_olimpiadas/blob/main/images/diagrama-de-componentes.png"/>
+<img width="1000px" height="800px" src="https://github.com/ThiagoAndradeRamalho/gestao_olimpiadas/blob/main/images/Diagrama-de-componentes.png"/>
 <img width="1000px" height="800px" src="https://github.com/ThiagoAndradeRamalho/gestao_olimpiadas/blob/main/images/diagrama-de-implantação.png"/>
 
 ## Histórias de Usuário
